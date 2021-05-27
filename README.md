@@ -1,4 +1,4 @@
-# General explanation
+# Databases explanation
 This database contains 24  strongly  heterogeneous  instances originally presented in ***Solution of a Practical Pallet Building Problem with Visibility and Contiguity Constraints*** by  Iori  et  al. (2019), that  are  separated  into  4  groups,  each  containing  6  instances,  characterized  by different intervals in the number of distinct items. Table 1 summarizes the details of the instances, reporting an instance field and its respective value by row: ID number,  number  of  item  types,  number  of  families,  and  total  number  of  items. The respective instances are based on realistic cases, although some randomized values are included to preserve the company's privacy. 
 
 |ID|n|N. of families|Max b_i|
@@ -28,7 +28,7 @@ This database contains 24  strongly  heterogeneous  instances originally present
 |23|66|13|738|
 |24|66|19|767|             
 
-## Simple instances analysys
+## A simple analysis of the instances
 These instances are interesting to be solved because it allows us to carry a broad analysis of the algorithm performance for containing easy and hard cases. The  larger  the  number  of  item  types,  families  and  items  is,  the  more  complex becomes  the  instance  to  be  solved.  Specifically,  an  instance  in  that  database  is more complex when the number of item types is greater than or equal to 50; thenumber of families is grater than or equal to 15; the total of items is grater than or equal to 700.
 
 # Instance description
