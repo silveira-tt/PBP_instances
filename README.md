@@ -34,16 +34,16 @@ These instances are interesting to be solved because it allows us to carry a bro
 # Instance description
 ```
 7       //number of types of items
-1000    //H 
-1000    //W
-1000    //L
-10000   //Weight capacity
-0.75    //fill factor (will be in another file with parameters)
+1000    //H (pallet)
+1000    //W (pallet)
+1000    //L (pallet)
+10000   //Weight capacity (pallet)
+0.75    //required fill factor
 
 4           //Number of families
 2; 5; 1; 10 //Stackability of each family
 
-2;0           //ITEM 1: Number of items of first type; Family number (start from 0)
+2;0           //ITEM 1: number of items of first type; Family number (start from 0)
 268;198;187;7 //ITEM 1: h,w,l,weight
 66;0          //ITEM 2: [...]
 402;303;184;9
