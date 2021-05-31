@@ -29,7 +29,7 @@ This database contains 24  strongly  heterogeneous  instances originally present
 |24|66|19|767|             
 
 ## A simple analysis of the instances
-These instances are interesting to be solved because it allows us to carry a broad analysis of the algorithm performance for containing easy and hard cases. The  larger  the  number  of  item  types,  families  and  items  is,  the  more  complex becomes  the  instance  to  be  solved.  Specifically,  an  instance  in  that  database  is more complex when the number of item types is greater than or equal to 50; thenumber of families is grater than or equal to 15; the total of items is grater than or equal to 700.
+These instances allow us to carry out a comprehensive analysis of the algorithm's performance as it contains easy and difficult cases. The  larger  the  number  of  item  types,  families  and  items  is,  the  more  complex becomes  the  instance  to  be  solved.  Specifically,  an  instance  in  that  database  is more complex when the number of item types is greater than or equal to 50; the number of families is grater than or equal to 15; the total of items is grater than or equal to 700.
 
 # Instance description
 ```
@@ -43,7 +43,7 @@ These instances are interesting to be solved because it allows us to carry a bro
 4           //Number of families
 2; 5; 1; 10 //Stackability of each family
 
-2;0           //ITEM 1: number of items of first type; Family number (start from 0)
+2;0           //ITEM 1: number of items of first type; family number (start from 0)
 268;198;187;7 //ITEM 1: h,w,l,weight
 66;0          //ITEM 2: [...]
 402;303;184;9
