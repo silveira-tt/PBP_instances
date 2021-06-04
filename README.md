@@ -1,5 +1,5 @@
 # Database explanation
-This database contains 24 strongly heterogeneous instances originally presented in ***Solution of a Practical Pallet Building Problem with Visibility and Contiguity Constraints*** by Iori  et al. (2019), that are separated into 4 groups, each containing 6 instances, characterized by different intervals in the number of distinct items. Table 1 summarizes the details of the instances, reporting an instance field and its respective value by row: ID number, number of  item types, number of families, and total number of items. The respective instances are based on realistic cases, although some randomized values are included to preserve the company's privacy.
+The database contains 24 strongly heterogeneous instances originally presented in Iori et al. (2020) and later used in Calzavara et al. (2021). The instances are separated into four groups, each containing six instances, characterized by different ranges for the number of items. Table 1 summarizes the details of the instances, reporting: ID number, number of item types, number of families, and total number of items. The instances have been created fropm a real-world database, although some randomized values have been included to preserve the company's privacy.
 
 |ID|n|N. of families|Max b_i|
 |:---:|:---:|:---:|:---:|
@@ -28,8 +28,9 @@ This database contains 24 strongly heterogeneous instances originally presented 
 |23|66|13|738|
 |24|66|19|767|             
 
-## A simple analysis of the instances
-This database allows us to carry out a comprehensive analysis of the algorithm's performance as it contains easy and difficult cases. The  larger  the  number  of  item  types,  families  and items  is,  the  more  complex becomes  the  instance  to  be  solved.  Specifically,  an  instance  in  that  database  is more complex when the number of item types is greater than or equal to 50; the number of families is greater than or equal to 15; the total of items is greater than or equal to 700.
+## References
+ - [Iori M, Locatelli M, Moreira MCO, Silveira T, “Solution of a Practical Pallet Building Problem with Visibility and Contiguity Constraints”, Proceedings of the 22nd International Conference on Enterprise Information Systems – Volume 1: ICEIS, 327-338 (2020)](https://www.scitepress.org/Link.aspx?doi=10.5220/0009351703270338)
+ - [Calzavara G, Iori M, Locatelli M, Moreira MCO, Silveira T, “Mathematical Models and Heuristic Algorithms for Pallet Building Problems with Practical Constraints”, submitted technical report (2021)]()
 
 # Instance description
 ```
