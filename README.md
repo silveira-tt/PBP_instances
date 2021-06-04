@@ -30,7 +30,7 @@ The database contains 24 strongly heterogeneous instances originally presented i
 
 ## References
  - [Iori M, Locatelli M, Moreira MCO, Silveira T, “Solution of a Practical Pallet Building Problem with Visibility and Contiguity Constraints”, Proceedings of the 22nd International Conference on Enterprise Information Systems – Volume 1: ICEIS, 327-338 (2020)](https://www.scitepress.org/Link.aspx?doi=10.5220/0009351703270338)
- - [Calzavara G, Iori M, Locatelli M, Moreira MCO, Silveira T, “Mathematical Models and Heuristic Algorithms for Pallet Building Problems with Practical Constraints”, submitted technical report (2021)]()
+ - Calzavara G, Iori M, Locatelli M, Moreira MCO, Silveira T, “Mathematical Models and Heuristic Algorithms for Pallet Building Problems with Practical Constraints”, submitted technical report (2021)
 
 # Instance description
 ```
